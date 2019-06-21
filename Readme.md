@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to show several data columns in the ASPxGridView's Preview row
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e97)**
+<!-- run online end -->
 
 
 <p>Use the ASPxGridView's PreviewRowTemplate to show data in the required way</p>
